@@ -219,3 +219,9 @@ __marimo__/
 
 # 数据目录
 data/
+
+# 模型检查点目录
+checkpoints/
+
+# TensorBoard 日志目录
+runs/
