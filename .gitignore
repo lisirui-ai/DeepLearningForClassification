@@ -221,8 +221,7 @@ __marimo__/
 data/
 
 # 模型检查点目录
-checkpoints/
+model_checkpoints/
 
 # TensorBoard 日志目录
-runs/
 tensorboard_logs/
