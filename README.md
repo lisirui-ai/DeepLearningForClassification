@@ -72,7 +72,7 @@ DeepLearningForClassification/
 
 ## 📚 Notebook 介绍
 
-### 1 · 浅层全连接网络（Shallow Neural Network）
+### 1.浅层全连接网络（Shallow Neural Network）
 
 > `1.image_classification_s(shallow)nn.ipynb`
 
@@ -90,7 +90,7 @@ DeepLearningForClassification/
 
 ---
 
-### 2 · 训练过程精细化控制
+### 2.训练过程精细化控制
 
 > `2.image_classification_s(shallow)nn_train_more_control.ipynb`
 
@@ -111,7 +111,7 @@ tensorboard --logdir=tensorboard_logs/snn
 
 ---
 
-### 3 · 深层网络 + 批归一化（Batch Normalization）
+### 3.深层网络 + 批归一化（Batch Normalization）
 
 > `3.image_classification_dnn_bn.ipynb`
 
@@ -134,7 +134,7 @@ tensorboard --logdir=tensorboard_logs/relu+he+bn
 
 ---
 
-### 4 · 深层网络 + SELU + AlphaDropout
+### 4.深层网络 + SELU + AlphaDropout
 
 > `4.image_classification_dnn_selu_AlphaDropout.ipynb`
 
